@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_debit_card.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\debit_card.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_24.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_shopping_cart_32.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_baseline_shopping_cart_32.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_container.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\container.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_shopping_cart_24.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\drawable\\ic_baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_in_cart.xml.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\layout\\item_product_in_cart.xml"
+    },
+    {
+        "merged": "D:\\a2_1801040055\\My Cart\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\a2_1801040055\\My Cart\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

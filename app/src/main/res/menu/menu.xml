@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cart_btn"
+        android:title="My cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_32"
+        app:showAsAction="ifRoom"
+        />
+</menu>

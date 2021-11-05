@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My cart</string>
+    <string name="img_desc">Product Thumnail</string>
+    <string name="product_name">Product Name</string>
+    <string name="search_box">Search...</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax_fees"><![CDATA[Tax & Fees]]></string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total</string>
+    <string name="init_val">0 VND</string>
+    <string name="free">Free</string>
+    <string name="checkout">Checkout</string>
+    <string name="Quantity">0</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="button">button</string>
+</resources>
